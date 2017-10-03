@@ -1,0 +1,5 @@
+The main difference between my code and the generated Umple code was the detail. The umple code was very
+	well commented and the structure was very organized. The plugin could be useful for creating 
+	the structure of a program abstractly. This would be a much faster method, and possibly less 
+	error-proned, than writing all the code out by hand. I think this is a great tool once
+	a user understands and feels comfortable using Umple.

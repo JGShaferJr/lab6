@@ -1,0 +1,56 @@
+class Order
+{
+  double total;
+  date;
+  double tax;
+  items;
+private String getdate(){
+
+}
+private double gettax(){
+
+}
+private double gettotal(){
+
+}
+private String getitems(){
+
+}
+}
+
+class Customer
+{
+  int id;
+  address;
+  name;
+  int number;
+private int getnumber(){
+
+}
+private String getname(){
+
+}
+private String getaddress(){
+
+}
+private int getid(){
+
+}
+}
+
+class Account
+{
+  int code;
+  number;
+  type;
+private String gettype(){
+
+}
+private String getnumber(){
+
+}
+private int getcode(){
+
+}
+}
+
